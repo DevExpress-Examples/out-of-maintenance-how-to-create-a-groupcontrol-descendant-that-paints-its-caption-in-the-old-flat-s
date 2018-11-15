@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [GroupControl.cs](./CS/DxSample/Editors/GroupControl.cs) (VB: [GroupControl.vb](./VB/DxSample/Editors/GroupControl.vb))
+* [SimpleGroupBorderPainter.cs](./CS/DxSample/Editors/SimpleGroupBorderPainter.cs) (VB: [SimpleGroupBorderPainter.vb](./VB/DxSample/Editors/SimpleGroupBorderPainter.vb))
+* **[SimpleGroupObjectPainter.cs](./CS/DxSample/Editors/SimpleGroupObjectPainter.cs) (VB: [SimpleGroupObjectPainter.vb](./VB/DxSample/Editors/SimpleGroupObjectPainter.vb))**
+<!-- default file list end -->
 # How to create a GroupControl descendant that paints its caption in the old flat style
 
 
